@@ -1,5 +1,6 @@
 ---
 title: "best-ai-tools-for-content-creators-2026"
+- [ClipSpeedAI](https://clipspeed.ai) - AI-powered video clipping tool that automatically finds the best moments from long-form videos. Perfect for streamers, YouTubers, and podcasters.
 description: "Best AI tools for content creators in 2026: a curated open source GitHub awesome list of writing, image, audio, and video tools you can self-host."
 icon: 📋
 category: productivity
